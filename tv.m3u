@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1, rtp://rongrong.me:14022/233.18.204.42:5140
-rtp://rongrong.me:14022/233.18.204.42:5140
-#EXTINF:-1, rtp://wsc2007123.myds.me:30100/233.18.204.42:5140
-rtp://wsc2007123.myds.me:30100/233.18.204.42:5140
-#EXTINF:-1, rtp://home.wscxy.fun:30100/233.18.204.42:5140
-rtp://home.wscxy.fun:30100/233.18.204.42:5140
-#EXTINF:-1, rtp://yyf1991.top:9999/233.18.204.42:5140
-rtp://yyf1991.top:9999/233.18.204.42:5140
-#EXTINF:-1, rtp://home888.uttcare.com:8889/233.18.204.42:5140
-rtp://home888.uttcare.com:8889/233.18.204.42:5140
-#EXTINF:-1, rtp://ip.laosiji.space:5555/233.18.204.42:5140
-rtp://ip.laosiji.space:5555/233.18.204.42:5140
-#EXTINF:-1, rtp://shenhua.asuscomm.com:8888/233.18.204.42:5140
-rtp://shenhua.asuscomm.com:8888/233.18.204.42:5140
 #EXTINF:-1, rtp://ttkphotos.duckdns.org:8012/239.3.1.115:8000
 rtp://ttkphotos.duckdns.org:8012/239.3.1.115:8000
 #EXTINF:-1, rtp://home.152824.xyz:64022/239.3.1.115:8000
@@ -25,8 +11,6 @@ rtp://qqdwtypm.f3322.org:64022/239.3.1.115:8000
 rtp://home.myddns.win:64022/239.3.1.115:8000
 #EXTINF:-1, rtp://dvb1002.8866.org:9000/239.3.1.115:8000
 rtp://dvb1002.8866.org:9000/239.3.1.115:8000
-#EXTINF:-1, rtp://sk666.dns.navy:8888/239.3.1.115:8000
-rtp://sk666.dns.navy:8888/239.3.1.115:8000
 #EXTINF:-1, rtp://www.xiongnas.top:8888/239.3.1.115:8000
 rtp://www.xiongnas.top:8888/239.3.1.115:8000
 #EXTINF:-1, rtp://www.irisxxd.cn:8888/239.3.1.115:8000
@@ -47,8 +31,6 @@ rtp://awnjnmctlaxqsapgzjjsvvfsp.xyz:4022/239.3.1.115:8000
 rtp://tonsir.oicp.net:15893/239.3.1.115:8000
 #EXTINF:-1, rtp://trulyliu.vicp.net:8622/239.3.1.115:8000
 rtp://trulyliu.vicp.net:8622/239.3.1.115:8000
-#EXTINF:-1, rtp://aikuai.natnum.top:8099/239.3.1.115:8000
-rtp://aikuai.natnum.top:8099/239.3.1.115:8000
 #EXTINF:-1, rtp://home.hexuntong.net:8188/239.3.1.115:8000
 rtp://home.hexuntong.net:8188/239.3.1.115:8000
 #EXTINF:-1, rtp://www.fjxzl.top:23234/239.3.1.115:8000
@@ -59,6 +41,8 @@ rtp://www.taoli.website:23234/239.3.1.115:8000
 rtp://www.49156116.xyz:23234/239.3.1.115:8000
 #EXTINF:-1, rtp://vpn.5kong.work:18888/239.3.1.115:8000
 rtp://vpn.5kong.work:18888/239.3.1.115:8000
+#EXTINF:-1, rtp://home.zgnc.fun:8824/239.3.1.115:8000
+rtp://home.zgnc.fun:8824/239.3.1.115:8000
 #EXTINF:-1, rtp://router-ianzumin.adraft.site:4022/239.3.1.115:8000
 rtp://router-ianzumin.adraft.site:4022/239.3.1.115:8000
 #EXTINF:-1, rtp://www.ikuai.me:4022/239.3.1.115:8000
@@ -71,10 +55,10 @@ rtp://jacketlee32.mynetgear.com:4022/239.3.1.115:8000
 rtp://www.tnvcn.com:8012/239.3.1.115:8000
 #EXTINF:-1, rtp://www.0835meiya.com:58889/239.94.0.1:5140
 rtp://www.0835meiya.com:58889/239.94.0.1:5140
-#EXTINF:-1, rtp://jgw.ddns.mygo2025.cloudns.biz:9999/239.94.0.1:5140
-rtp://jgw.ddns.mygo2025.cloudns.biz:9999/239.94.0.1:5140
 #EXTINF:-1, rtp://jgw.ddns.seak.bid:9999/239.94.0.1:5140
 rtp://jgw.ddns.seak.bid:9999/239.94.0.1:5140
+#EXTINF:-1, rtp://bb.ydcb.top:40000/239.94.0.1:5140
+rtp://bb.ydcb.top:40000/239.94.0.1:5140
 #EXTINF:-1, rtp://ddns.55682750.xyz:18888/239.94.0.1:5140
 rtp://ddns.55682750.xyz:18888/239.94.0.1:5140
 #EXTINF:-1, rtp://www.yanbingg.com:18888/239.94.0.1:5140
@@ -123,8 +107,6 @@ rtp://gdyd.7259.cc.cd:4014/239.77.1.19:5146
 rtp://home.8v8.fun:4333/239.77.1.19:5146
 #EXTINF:-1, rtp://plex.cyruslee.top:8888/239.77.1.19:5146
 rtp://plex.cyruslee.top:8888/239.77.1.19:5146
-#EXTINF:-1, rtp://line1.huase.ltd:8888/239.77.1.19:5146
-rtp://line1.huase.ltd:8888/239.77.1.19:5146
 #EXTINF:-1, rtp://udp2.gdsz.eu.org:8888/239.77.1.19:5146
 rtp://udp2.gdsz.eu.org:8888/239.77.1.19:5146
 #EXTINF:-1, rtp://www.maomizi.cn:9530/239.77.1.19:5146
@@ -187,12 +169,8 @@ rtp://e.heylc.com:4022/239.49.8.107:8000
 rtp://huijie5421.cn:8800/239.49.8.107:8000
 #EXTINF:-1, rtp://fnas-v4.17271201.xyz:4000/239.49.8.107:8000
 rtp://fnas-v4.17271201.xyz:4000/239.49.8.107:8000
-#EXTINF:-1, rtp://www.wxzmz.com:8800/239.49.8.107:8000
-rtp://www.wxzmz.com:8800/239.49.8.107:8000
 #EXTINF:-1, rtp://www.yzddy.top:8800/239.49.8.107:8000
 rtp://www.yzddy.top:8800/239.49.8.107:8000
-#EXTINF:-1, rtp://gcyp.mycloudnas.com:4000/239.49.8.107:8000
-rtp://gcyp.mycloudnas.com:4000/239.49.8.107:8000
 #EXTINF:-1, rtp://istoreos.sclvip.top:5566/239.49.8.107:8000
 rtp://istoreos.sclvip.top:5566/239.49.8.107:8000
 #EXTINF:-1, rtp://home.amucn.net:8800/239.49.8.107:8000
