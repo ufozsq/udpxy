@@ -572,62 +572,6 @@ http://aecm6mg6ilmqybhl.nexusedgeio.com:5588/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://aecm6mg6ilmqybhl.nexusedgeio.com:5588/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
-http://miwifi.dbus.io:8622/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="北京联通",CCTV16 4K
-http://miwifi.dbus.io:8622/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="北京联通",少儿
-http://miwifi.dbus.io:8622/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="北京联通",淘电影
-http://miwifi.dbus.io:8622/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="北京联通",北京4K
-http://miwifi.dbus.io:8622/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="北京联通",房山电视台
-http://miwifi.dbus.io:8622/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="北京联通",密云电视台
-http://miwifi.dbus.io:8622/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="北京联通",爱上4K[超清]
-http://miwifi.dbus.io:8622/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="北京联通",BRTV新闻
-http://miwifi.dbus.io:8622/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="北京联通",BRTV影视
-http://miwifi.dbus.io:8622/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="北京联通",BRTV文艺
-http://miwifi.dbus.io:8622/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="北京联通",BRTV财经
-http://miwifi.dbus.io:8622/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京联通",BRTV生活
-http://miwifi.dbus.io:8622/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="北京联通",BRTV青年
-http://miwifi.dbus.io:8622/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="北京联通",BRTV科教
-http://trulyliu.vicp.net:8622/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="北京联通",CCTV16 4K
-http://trulyliu.vicp.net:8622/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="北京联通",少儿
-http://trulyliu.vicp.net:8622/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="北京联通",淘电影
-http://trulyliu.vicp.net:8622/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="北京联通",北京4K
-http://trulyliu.vicp.net:8622/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="北京联通",房山电视台
-http://trulyliu.vicp.net:8622/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="北京联通",密云电视台
-http://trulyliu.vicp.net:8622/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="北京联通",爱上4K[超清]
-http://trulyliu.vicp.net:8622/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="北京联通",BRTV新闻
-http://trulyliu.vicp.net:8622/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="北京联通",BRTV影视
-http://trulyliu.vicp.net:8622/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="北京联通",BRTV文艺
-http://trulyliu.vicp.net:8622/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="北京联通",BRTV财经
-http://trulyliu.vicp.net:8622/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京联通",BRTV生活
-http://trulyliu.vicp.net:8622/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="北京联通",BRTV青年
-http://trulyliu.vicp.net:8622/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="北京联通",BRTV科教
 http://otis.i234.me:53123/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
 http://otis.i234.me:53123/rtp/239.3.1.183:8001
@@ -711,34 +655,6 @@ http://aecperaljwmg6yts.0kkkkkt.com:53123/rtp/239.3.1.116:8000
 http://aecperaljwmg6yts.0kkkkkt.com:53123/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://aecperaljwmg6yts.0kkkkkt.com:53123/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="北京联通",BRTV科教
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="北京联通",CCTV16 4K
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="北京联通",少儿
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="北京联通",淘电影
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="北京联通",北京4K
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="北京联通",房山电视台
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="北京联通",密云电视台
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="北京联通",爱上4K[超清]
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="北京联通",BRTV新闻
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="北京联通",BRTV影视
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="北京联通",BRTV文艺
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="北京联通",BRTV财经
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京联通",BRTV生活
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="北京联通",BRTV青年
-http://home.yaoleyaotou.com:4022/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
 http://unicom3.swjms.com:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
@@ -1299,6 +1215,34 @@ http://laowang666.familyds.com:6300/rtp/239.3.1.116:8000
 http://laowang666.familyds.com:6300/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://laowang666.familyds.com:6300/rtp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通",BRTV科教
+http://mom.famcloud.top:9878/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通",CCTV16 4K
+http://mom.famcloud.top:9878/rtp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通",少儿
+http://mom.famcloud.top:9878/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通",淘电影
+http://mom.famcloud.top:9878/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通",北京4K
+http://mom.famcloud.top:9878/rtp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通",房山电视台
+http://mom.famcloud.top:9878/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通",密云电视台
+http://mom.famcloud.top:9878/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通",爱上4K[超清]
+http://mom.famcloud.top:9878/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通",BRTV新闻
+http://mom.famcloud.top:9878/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通",BRTV影视
+http://mom.famcloud.top:9878/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通",BRTV文艺
+http://mom.famcloud.top:9878/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通",BRTV财经
+http://mom.famcloud.top:9878/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通",BRTV生活
+http://mom.famcloud.top:9878/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通",BRTV青年
+http://mom.famcloud.top:9878/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
 http://www.photoby.us:28012/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
@@ -4005,6 +3949,24 @@ http://yc4.689989.xyz:8288/rtp/239.21.1.183:5002
 http://yc4.689989.xyz:8288/rtp/239.21.1.208:5002
 #EXTINF:-1 group-title="山东电信",青岛综合
 http://yc4.689989.xyz:8288/rtp/239.21.2.57:5002
+#EXTINF:-1 group-title="山东电信",山东齐鲁
+http://h.ariada.tech:2678/rtp/239.21.1.134:5002
+#EXTINF:-1 group-title="山东电信",山东新闻
+http://h.ariada.tech:2678/rtp/239.21.1.140:5002
+#EXTINF:-1 group-title="山东电信",山东综艺
+http://h.ariada.tech:2678/rtp/239.21.1.177:5002
+#EXTINF:-1 group-title="山东电信",山东生活
+http://h.ariada.tech:2678/rtp/239.21.1.175:5002
+#EXTINF:-1 group-title="山东电信",山东文旅
+http://h.ariada.tech:2678/rtp/239.21.1.176:5002
+#EXTINF:-1 group-title="山东电信",山东体育
+http://h.ariada.tech:2678/rtp/239.21.1.141:5002
+#EXTINF:-1 group-title="山东电信",山东农科
+http://h.ariada.tech:2678/rtp/239.21.1.183:5002
+#EXTINF:-1 group-title="山东电信",山东少儿
+http://h.ariada.tech:2678/rtp/239.21.1.208:5002
+#EXTINF:-1 group-title="山东电信",青岛综合
+http://h.ariada.tech:2678/rtp/239.21.2.57:5002
 #EXTINF:-1 group-title="广东电信",广东卫视高清
 http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.1.19:5146
 #EXTINF:-1 group-title="广东电信",翡翠台
@@ -12160,24 +12122,6 @@ http://www.foreveryyl.top:8001/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="江苏电信",广西卫视HD
 http://www.foreveryyl.top:8001/rtp/239.49.8.10:8000
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
-http://kouki.pro:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏电信",江苏综艺HD
-http://kouki.pro:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
-http://kouki.pro:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏电信",江苏影视HD
-http://kouki.pro:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
-http://kouki.pro:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏电信",江苏教育HD
-http://kouki.pro:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏电信",江苏新闻HD
-http://kouki.pro:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏电信",江苏卫视HD
-http://kouki.pro:8888/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="江苏电信",广西卫视HD
-http://kouki.pro:8888/rtp/239.49.8.10:8000
-#EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://www.duanht.top:4000/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
 http://www.duanht.top:4000/rtp/239.49.8.108:8000
@@ -12195,6 +12139,42 @@ http://www.duanht.top:4000/rtp/239.49.8.120:8000
 http://www.duanht.top:4000/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="江苏电信",广西卫视HD
 http://www.duanht.top:4000/rtp/239.49.8.10:8000
+#EXTINF:-1 group-title="江苏电信",江苏城市HD
+http://fb.linc.vip:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏电信",江苏综艺HD
+http://fb.linc.vip:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
+http://fb.linc.vip:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏电信",江苏影视HD
+http://fb.linc.vip:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
+http://fb.linc.vip:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏电信",江苏教育HD
+http://fb.linc.vip:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏电信",江苏新闻HD
+http://fb.linc.vip:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏电信",江苏卫视HD
+http://fb.linc.vip:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="江苏电信",广西卫视HD
+http://fb.linc.vip:4022/rtp/239.49.8.10:8000
+#EXTINF:-1 group-title="江苏电信",江苏城市HD
+http://clnas.heylc.com:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏电信",江苏综艺HD
+http://clnas.heylc.com:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
+http://clnas.heylc.com:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏电信",江苏影视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
+http://clnas.heylc.com:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏电信",江苏教育HD
+http://clnas.heylc.com:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏电信",江苏新闻HD
+http://clnas.heylc.com:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏电信",江苏卫视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="江苏电信",广西卫视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.10:8000
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://xuekuan.site:8088/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
@@ -13384,166 +13364,6 @@ rtp:///233.50.201.85:5140
 #EXTINF:-1 group-title="浙江电信",民生广播 FM
 rtp:///233.50.201.86:5140
 #EXTINF:-1 group-title="湖南电信",湖南卫视高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.115:9000
-#EXTINF:-1 group-title="湖南电信",湖南经视高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.116:9000
-#EXTINF:-1 group-title="湖南电信",湖南都市高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.117:9000
-#EXTINF:-1 group-title="湖南电信",湖南电视剧高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.118:9000
-#EXTINF:-1 group-title="湖南电信",湖南电影高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.119:9000
-#EXTINF:-1 group-title="湖南电信",湖南爱晚高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.123:9000
-#EXTINF:-1 group-title="湖南电信",湖南娱乐高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.121:9000
-#EXTINF:-1 group-title="湖南电信",湖南国际高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.124:9000
-#EXTINF:-1 group-title="湖南电信",金鹰纪实高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.122:9000
-#EXTINF:-1 group-title="湖南电信",金鹰卡通高清 12M
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.120:9000
-#EXTINF:-1 group-title="湖南电信",金鹰纪实高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.110:9000
-#EXTINF:-1 group-title="湖南电信",金鹰卡通高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.107:9000
-#EXTINF:-1 group-title="湖南电信",湖南卫视超清  
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.100:9000
-#EXTINF:-1 group-title="湖南电信",湖南国际高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.102:9000
-#EXTINF:-1 group-title="湖南电信",湖南国际高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.240:9000
-#EXTINF:-1 group-title="湖南电信",湖南教育高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.233:9000
-#EXTINF:-1 group-title="湖南电信",茶频道高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.239:9000
-#EXTINF:-1 group-title="湖南电信",凤凰中文高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.134:9000
-#EXTINF:-1 group-title="湖南电信",凤凰资讯高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.135:9000
-#EXTINF:-1 group-title="湖南电信",凤凰中文高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.246.8:1234
-#EXTINF:-1 group-title="湖南电信",凤凰资讯高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.246.7:1234
-#EXTINF:-1 group-title="湖南电信",芒果汽车高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.217:9000
-#EXTINF:-1 group-title="湖南电信",芒果汽车高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.123:9000
-#EXTINF:-1 group-title="湖南电信",芒果乐搜高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.200:9000
-#EXTINF:-1 group-title="湖南电信",芒果乐活高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.201:9000
-#EXTINF:-1 group-title="湖南电信",军旅剧场高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.134:9000
-#EXTINF:-1 group-title="湖南电信",IPTV戏剧频道高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.40:9000
-#EXTINF:-1 group-title="湖南电信",IPTV健康之道高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.42:9000
-#EXTINF:-1 group-title="湖南电信",IPTV经典剧场高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.221:9000
-#EXTINF:-1 group-title="湖南电信",IPTV抗战剧场高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.245.218:1234
-#EXTINF:-1 group-title="湖南电信",IPTV家庭剧场高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.220:9000
-#EXTINF:-1 group-title="湖南电信",IPTV古装剧场高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.219:9000
-#EXTINF:-1 group-title="湖南电信",IPTV精选热播高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.254.110:9000
-#EXTINF:-1 group-title="湖南电信",IPTV芒果热剧高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.194:9000
-#EXTINF:-1 group-title="湖南电信",IPTV芒果热剧高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.222:9000
-#EXTINF:-1 group-title="湖南电信",IPTV芒果热播高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.215:9000
-#EXTINF:-1 group-title="湖南电信",IPTV芒果互娱高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.126:9000
-#EXTINF:-1 group-title="湖南电信",IPTV芒果好看高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.219:9000
-#EXTINF:-1 group-title="湖南电信",IPTV高清院线高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.217:9000
-#EXTINF:-1 group-title="湖南电信",IPTV综艺纪实高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.254.111:9000
-#EXTINF:-1 group-title="湖南电信",IPTV故事频道高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.41:9000
-#EXTINF:-1 group-title="湖南电信",IPTV搞笑动画高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.247.207:1234
-#EXTINF:-1 group-title="湖南电信",IPTV幼教动画高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.247.210:1234
-#EXTINF:-1 group-title="湖南电信",长沙影视高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.204:9000
-#EXTINF:-1 group-title="湖南电信",长沙女性高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.23:9000
-#EXTINF:-1 group-title="湖南电信",长沙女性高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.251.146:9000
-#EXTINF:-1 group-title="湖南电信",长沙新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.121:9000
-#EXTINF:-1 group-title="湖南电信",长沙政法高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.122:9000
-#EXTINF:-1 group-title="湖南电信",浏阳新闻高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.6:9000
-#EXTINF:-1 group-title="湖南电信",湘西公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.209:9000
-#EXTINF:-1 group-title="湖南电信",湘西公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.210:9000
-#EXTINF:-1 group-title="湖南电信",湘西新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.208:9000
-#EXTINF:-1 group-title="湖南电信",湘西新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.245.208:1234
-#EXTINF:-1 group-title="湖南电信",衡阳公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.14:9000
-#EXTINF:-1 group-title="湖南电信",衡阳新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.13:9000
-#EXTINF:-1 group-title="湖南电信",衡阳县电视台高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.26:9000
-#EXTINF:-1 group-title="湖南电信",邵阳公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.22:9000
-#EXTINF:-1 group-title="湖南电信",邵阳新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.21:9000
-#EXTINF:-1 group-title="湖南电信",娄底教育高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.20:9000
-#EXTINF:-1 group-title="湖南电信",娄底综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.18:9000
-#EXTINF:-1 group-title="湖南电信",娄底公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.19:9000
-#EXTINF:-1 group-title="湖南电信",郴州新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.75:9000
-#EXTINF:-1 group-title="湖南电信",张家界新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.234:9000
-#EXTINF:-1 group-title="湖南电信",张家界公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.235:9000
-#EXTINF:-1 group-title="湖南电信",怀化新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.12:9000
-#EXTINF:-1 group-title="湖南电信",常德新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.10:9000
-#EXTINF:-1 group-title="湖南电信",常德公共高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.11:9000
-#EXTINF:-1 group-title="湖南电信",永州新闻综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.23:9000
-#EXTINF:-1 group-title="湖南电信",溆浦综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.25:9000
-#EXTINF:-1 group-title="湖南电信",武冈综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.29:9000
-#EXTINF:-1 group-title="湖南电信",新化高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.31:9000
-#EXTINF:-1 group-title="湖南电信",津市高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.30:9000
-#EXTINF:-1 group-title="湖南电信",桂东融媒高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.253.231:9000
-#EXTINF:-1 group-title="湖南电信",道县综合高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.28:9000
-#EXTINF:-1 group-title="湖南电信",NXTV高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.255.57:9000
-#EXTINF:-1 group-title="湖南电信",金色夕阳高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.254.43:9000
-#EXTINF:-1 group-title="湖南电信",新电视高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.154:9000
-#EXTINF:-1 group-title="湖南电信",新电视高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.153:9000
-#EXTINF:-1 group-title="湖南电信",新电视高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.152:9000
-#EXTINF:-1 group-title="湖南电信",新电视高清
-http://sanrenxing.ddns.net:7878/rtp/239.76.252.151:9000
-#EXTINF:-1 group-title="湖南电信",湖南卫视高清 12M
 http://0000505.xyz:8888/rtp/239.76.252.115:9000
 #EXTINF:-1 group-title="湖南电信",湖南经视高清 12M
 http://0000505.xyz:8888/rtp/239.76.252.116:9000
@@ -13703,6 +13523,42 @@ http://0000505.xyz:8888/rtp/239.76.252.153:9000
 http://0000505.xyz:8888/rtp/239.76.252.152:9000
 #EXTINF:-1 group-title="湖南电信",新电视高清
 http://0000505.xyz:8888/rtp/239.76.252.151:9000
+#EXTINF:-1 group-title="重庆联通",重庆卫视超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.187:7980
+#EXTINF:-1 group-title="重庆联通",重庆新闻超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.188:7980
+#EXTINF:-1 group-title="重庆联通",重庆影视超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.192:7980
+#EXTINF:-1 group-title="重庆联通",重庆社会与法超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.190:7980
+#EXTINF:-1 group-title="重庆联通",重庆时尚生活超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.196:7980
+#EXTINF:-1 group-title="重庆联通",重庆娱乐超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.194:7980
+#EXTINF:-1 group-title="重庆联通",重庆新农村超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.189:7980
+#EXTINF:-1 group-title="重庆联通",重庆少儿超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.191:7980
+#EXTINF:-1 group-title="重庆联通",重庆科教超高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.193:7980
+#EXTINF:-1 group-title="重庆联通",动作影院
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.170:7980
+#EXTINF:-1 group-title="重庆联通",家庭影院
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.171:7980
+#EXTINF:-1 group-title="重庆联通",星影
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.172:7980
+#EXTINF:-1 group-title="重庆联通",CHC家庭影院
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.228:7980
+#EXTINF:-1 group-title="重庆联通",CHC动作电影
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.229:7980
+#EXTINF:-1 group-title="重庆联通",CHC高清电影
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.230:7980
+#EXTINF:-1 group-title="重庆联通",精彩影视
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.231:7980
+#EXTINF:-1 group-title="重庆联通",求索纪录
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.232:7980
+#EXTINF:-1 group-title="重庆联通",茶高清
+http://27-11-104-61-ad230e26.ldhy.click:8009/rtp/225.0.4.233:7980
 #EXTINF:-1 group-title="重庆联通",重庆卫视超高清
 http://game.x3322.net:8899/rtp/225.0.4.187:7980
 #EXTINF:-1 group-title="重庆联通",重庆新闻超高清
