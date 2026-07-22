@@ -492,6 +492,34 @@ http://catchshadows.com:53123/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://catchshadows.com:53123/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通",CCTV16 4K
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通",少儿
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通",淘电影
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通",北京4K
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通",房山电视台
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通",密云电视台
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通",爱上4K[超清]
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通",BRTV新闻
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通",BRTV影视
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通",BRTV文艺
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通",BRTV财经
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通",BRTV生活
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通",BRTV青年
+http://jintai.wp1993.xyz:4919/rtp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通",BRTV科教
 http://www.jianxiao.net:2321/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
 http://www.jianxiao.net:2321/rtp/239.3.1.183:8001
@@ -519,6 +547,34 @@ http://www.jianxiao.net:2321/rtp/239.3.1.116:8000
 http://www.jianxiao.net:2321/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://www.jianxiao.net:2321/rtp/239.3.1.118:8000
+#EXTINF:-1 group-title="北京联通",BRTV科教
+http://sk88.duckdns.org:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="北京联通",CCTV16 4K
+http://sk88.duckdns.org:8888/rtp/239.3.1.183:8001
+#EXTINF:-1 group-title="北京联通",少儿
+http://sk88.duckdns.org:8888/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="北京联通",淘电影
+http://sk88.duckdns.org:8888/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="北京联通",北京4K
+http://sk88.duckdns.org:8888/rtp/239.3.1.249:8001
+#EXTINF:-1 group-title="北京联通",房山电视台
+http://sk88.duckdns.org:8888/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="北京联通",密云电视台
+http://sk88.duckdns.org:8888/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="北京联通",爱上4K[超清]
+http://sk88.duckdns.org:8888/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="北京联通",BRTV新闻
+http://sk88.duckdns.org:8888/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="北京联通",BRTV影视
+http://sk88.duckdns.org:8888/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="北京联通",BRTV文艺
+http://sk88.duckdns.org:8888/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="北京联通",BRTV财经
+http://sk88.duckdns.org:8888/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="北京联通",BRTV生活
+http://sk88.duckdns.org:8888/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="北京联通",BRTV青年
+http://sk88.duckdns.org:8888/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
 http://sk888.eu.org:8888/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
@@ -1135,34 +1191,6 @@ http://laowang666.familyds.com:6300/rtp/239.3.1.116:8000
 http://laowang666.familyds.com:6300/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="北京联通",BRTV青年
 http://laowang666.familyds.com:6300/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="北京联通",BRTV科教
-http://mom.famcloud.top:9878/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="北京联通",CCTV16 4K
-http://mom.famcloud.top:9878/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="北京联通",少儿
-http://mom.famcloud.top:9878/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="北京联通",淘电影
-http://mom.famcloud.top:9878/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="北京联通",北京4K
-http://mom.famcloud.top:9878/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="北京联通",房山电视台
-http://mom.famcloud.top:9878/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="北京联通",密云电视台
-http://mom.famcloud.top:9878/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="北京联通",爱上4K[超清]
-http://mom.famcloud.top:9878/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="北京联通",BRTV新闻
-http://mom.famcloud.top:9878/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="北京联通",BRTV影视
-http://mom.famcloud.top:9878/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="北京联通",BRTV文艺
-http://mom.famcloud.top:9878/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="北京联通",BRTV财经
-http://mom.famcloud.top:9878/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="北京联通",BRTV生活
-http://mom.famcloud.top:9878/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="北京联通",BRTV青年
-http://mom.famcloud.top:9878/rtp/239.3.1.118:8000
 #EXTINF:-1 group-title="北京联通",BRTV科教
 http://sync.home.wangbin.us:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="北京联通",CCTV16 4K
@@ -7604,6 +7632,488 @@ http://www.qysm7.cn:8188/rtp/239.77.0.176:5146
 #EXTINF:-1 group-title="广东电信",爱体育高清
 http://www.qysm7.cn:8188/rtp/239.77.1.116:5146
 #EXTINF:-1 group-title="广东电信",广东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.19:5146
+#EXTINF:-1 group-title="广东电信",翡翠台
+http://xxika.synology.me:8188/rtp/239.77.1.107:5146
+#EXTINF:-1 group-title="广东电信",明珠台
+http://xxika.synology.me:8188/rtp/239.77.1.189:5146
+#EXTINF:-1 group-title="广东电信",广东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.19:5146
+#EXTINF:-1 group-title="广东电信",广东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.152:5146
+#EXTINF:-1 group-title="广东电信",广东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.84:5146
+#EXTINF:-1 group-title="广东电信",广东卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.166:5146
+#EXTINF:-1 group-title="广东电信",广东珠江高清
+http://xxika.synology.me:8188/rtp/239.77.0.1:5146
+#EXTINF:-1 group-title="广东电信",广东珠江超清
+http://xxika.synology.me:8188/rtp/239.77.0.114:5146
+#EXTINF:-1 group-title="广东电信",广东新闻高清
+http://xxika.synology.me:8188/rtp/239.77.0.173:5146
+#EXTINF:-1 group-title="广东电信",广东民生高清
+http://xxika.synology.me:8188/rtp/239.77.0.225:5146
+#EXTINF:-1 group-title="广东电信",广东体育高清-测试
+http://xxika.synology.me:8188/rtp/239.77.0.112:5146
+#EXTINF:-1 group-title="广东电信",广东体育超清
+http://xxika.synology.me:8188/rtp/239.77.0.168:5146
+#EXTINF:-1 group-title="广东电信",经济科教高清
+http://xxika.synology.me:8188/rtp/239.77.0.85:5146
+#EXTINF:-1 group-title="广东电信",经济科教超清
+http://xxika.synology.me:8188/rtp/239.77.0.167:5146
+#EXTINF:-1 group-title="广东电信",大湾区卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.215:5146
+#EXTINF:-1 group-title="广东电信",广东影视高清
+http://xxika.synology.me:8188/rtp/239.77.0.217:5146
+#EXTINF:-1 group-title="广东电信",广东少儿高清
+http://xxika.synology.me:8188/rtp/239.77.0.250:5146
+#EXTINF:-1 group-title="广东电信",嘉佳卡通高清
+http://xxika.synology.me:8188/rtp/239.77.0.179:5146
+#EXTINF:-1 group-title="广东电信",岭南戏曲高清
+http://xxika.synology.me:8188/rtp/239.77.0.122:5146
+#EXTINF:-1 group-title="广东电信",现代教育高清
+http://xxika.synology.me:8188/rtp/239.77.0.213:5146
+#EXTINF:-1 group-title="广东电信",广州综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.71:5146
+#EXTINF:-1 group-title="广东电信",广州新闻高清
+http://xxika.synology.me:8188/rtp/239.253.43.72:5146
+#EXTINF:-1 group-title="广东电信",广州影视高清
+http://xxika.synology.me:8188/rtp/239.253.43.73:5146
+#EXTINF:-1 group-title="广东电信",广州法治高清
+http://xxika.synology.me:8188/rtp/239.253.43.74:5146
+#EXTINF:-1 group-title="广东电信",深圳卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.3:5146
+#EXTINF:-1 group-title="广东电信",深圳卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.148:5146
+#EXTINF:-1 group-title="广东电信",深圳卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.92:5146
+#EXTINF:-1 group-title="广东电信",深圳卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.130:5146
+#EXTINF:-1 group-title="广东电信",深圳都市频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.176:5146
+#EXTINF:-1 group-title="广东电信",深圳都市频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.124:5146
+#EXTINF:-1 group-title="广东电信",深圳电视剧频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.177:5146
+#EXTINF:-1 group-title="广东电信",深圳电视剧频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.125:5146
+#EXTINF:-1 group-title="广东电信",深圳财经生活高清
+http://xxika.synology.me:8188/rtp/239.77.1.242:5146
+#EXTINF:-1 group-title="广东电信",深圳娱乐频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.243:5146
+#EXTINF:-1 group-title="广东电信",深圳体育健康高清
+http://xxika.synology.me:8188/rtp/239.77.1.128:5146
+#EXTINF:-1 group-title="广东电信",深圳体育健康高清
+http://xxika.synology.me:8188/rtp/239.77.1.140:5146
+#EXTINF:-1 group-title="广东电信",深圳少儿频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.244:5146
+#EXTINF:-1 group-title="广东电信",深圳公共频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.178:5146
+#EXTINF:-1 group-title="广东电信",深圳公共频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.126:5146
+#EXTINF:-1 group-title="广东电信",深圳宝安频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.67:5146
+#EXTINF:-1 group-title="广东电信",深圳龙岗频道高清
+http://xxika.synology.me:8188/rtp/239.77.1.223:5146
+#EXTINF:-1 group-title="广东电信",深圳众创TV高清
+http://xxika.synology.me:8188/rtp/239.77.1.247:5146
+#EXTINF:-1 group-title="广东电信",深圳宜和购物高清
+http://xxika.synology.me:8188/rtp/239.77.1.87:5146
+#EXTINF:-1 group-title="广东电信",韶关新闻综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.117:5146
+#EXTINF:-1 group-title="广东电信",湛江新闻综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.141:5146
+#EXTINF:-1 group-title="广东电信",湛江公共高清
+http://xxika.synology.me:8188/rtp/239.77.0.140:5146
+#EXTINF:-1 group-title="广东电信",揭阳综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.229:5146
+#EXTINF:-1 group-title="广东电信",揭阳生活高清
+http://xxika.synology.me:8188/rtp/239.77.0.251:5146
+#EXTINF:-1 group-title="广东电信",汕尾新闻综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.25:5146
+#EXTINF:-1 group-title="广东电信",汕尾文化生活高清
+http://xxika.synology.me:8188/rtp/239.77.0.187:5146
+#EXTINF:-1 group-title="广东电信",江门综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.201:5146
+#EXTINF:-1 group-title="广东电信",江门侨乡生活高清
+http://xxika.synology.me:8188/rtp/239.77.0.202:5146
+#EXTINF:-1 group-title="广东电信",HZTV-1高清
+http://xxika.synology.me:8188/rtp/239.77.1.232:5146
+#EXTINF:-1 group-title="广东电信",HZTV-2高清
+http://xxika.synology.me:8188/rtp/239.77.1.233:5146
+#EXTINF:-1 group-title="广东电信",珠海-1高清
+http://xxika.synology.me:8188/rtp/239.77.0.155:5146
+#EXTINF:-1 group-title="广东电信",珠海-2高清
+http://xxika.synology.me:8188/rtp/239.77.0.154:5146
+#EXTINF:-1 group-title="广东电信",肇庆综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.1:5146
+#EXTINF:-1 group-title="广东电信",肇庆生活服务高清
+http://xxika.synology.me:8188/rtp/239.253.43.2:5146
+#EXTINF:-1 group-title="广东电信",河源综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.213:5146
+#EXTINF:-1 group-title="广东电信",河源公共高清
+http://xxika.synology.me:8188/rtp/239.253.43.214:5146
+#EXTINF:-1 group-title="广东电信",清远新闻综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.33:5146
+#EXTINF:-1 group-title="广东电信",清远文旅生活高清
+http://xxika.synology.me:8188/rtp/239.253.43.34:5146
+#EXTINF:-1 group-title="广东电信",云浮综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.253:5146
+#EXTINF:-1 group-title="广东电信",云浮文旅高清
+http://xxika.synology.me:8188/rtp/239.77.0.254:5146
+#EXTINF:-1 group-title="广东电信",茂名综合高清
+http://xxika.synology.me:8188/rtp/239.77.0.206:5146
+#EXTINF:-1 group-title="广东电信",茂名公共高清
+http://xxika.synology.me:8188/rtp/239.77.0.207:5146
+#EXTINF:-1 group-title="广东电信",汕头综合高清
+http://xxika.synology.me:8188/rtp/239.77.1.130:5146
+#EXTINF:-1 group-title="广东电信",汕头综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.45:5146
+#EXTINF:-1 group-title="广东电信",汕头经济生活高清
+http://xxika.synology.me:8188/rtp/239.77.1.131:5146
+#EXTINF:-1 group-title="广东电信",汕头经济生活高清
+http://xxika.synology.me:8188/rtp/239.253.43.46:5146
+#EXTINF:-1 group-title="广东电信",汕头文旅体育高清
+http://xxika.synology.me:8188/rtp/239.77.1.132:5146
+#EXTINF:-1 group-title="广东电信",汕头文旅体育高清
+http://xxika.synology.me:8188/rtp/239.253.43.47:5146
+#EXTINF:-1 group-title="广东电信",佛山公共高清
+http://xxika.synology.me:8188/rtp/239.253.43.53:5146
+#EXTINF:-1 group-title="广东电信",佛山南海高清
+http://xxika.synology.me:8188/rtp/239.253.43.54:5146
+#EXTINF:-1 group-title="广东电信",佛山顺德高清
+http://xxika.synology.me:8188/rtp/239.253.43.55:5146
+#EXTINF:-1 group-title="广东电信",佛山影视高清
+http://xxika.synology.me:8188/rtp/239.253.43.56:5146
+#EXTINF:-1 group-title="广东电信",佛山综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.57:5146
+#EXTINF:-1 group-title="广东电信",东莞新闻综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.104:5146
+#EXTINF:-1 group-title="广东电信",东莞生活资讯高清
+http://xxika.synology.me:8188/rtp/239.253.43.105:5146
+#EXTINF:-1 group-title="广东电信",中山综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.62:5146
+#EXTINF:-1 group-title="广东电信",香山文化高清
+http://xxika.synology.me:8188/rtp/239.253.43.63:5146
+#EXTINF:-1 group-title="广东电信",潮州综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.70:5146
+#EXTINF:-1 group-title="广东电信",潮州民生高清
+http://xxika.synology.me:8188/rtp/239.253.43.75:5146
+#EXTINF:-1 group-title="广东电信",徐闻综合高清
+http://xxika.synology.me:8188/rtp/239.253.43.112:5146
+#EXTINF:-1 group-title="广东电信",梅州-1高清
+http://xxika.synology.me:8188/rtp/239.253.43.123:5146
+#EXTINF:-1 group-title="广东电信",客家生活高清
+http://xxika.synology.me:8188/rtp/239.253.43.124:5146
+#EXTINF:-1 group-title="广东电信",CCTV-1高清
+http://xxika.synology.me:8188/rtp/239.77.1.17:5146
+#EXTINF:-1 group-title="广东电信",CCTV-1高清
+http://xxika.synology.me:8188/rtp/239.77.1.144:5146
+#EXTINF:-1 group-title="广东电信",CCTV-1高清
+http://xxika.synology.me:8188/rtp/239.77.0.119:5146
+#EXTINF:-1 group-title="广东电信",CCTV-1高清(CCTV -1综合高清)
+http://xxika.synology.me:8188/rtp/239.77.0.86:5146
+#EXTINF:-1 group-title="广东电信",CCTV-1超清
+http://xxika.synology.me:8188/rtp/239.77.0.129:5146
+#EXTINF:-1 group-title="广东电信",CCTV-2高清
+http://xxika.synology.me:8188/rtp/239.77.1.158:5146
+#EXTINF:-1 group-title="广东电信",CCTV-2高清 
+http://xxika.synology.me:8188/rtp/239.253.43.17:5146
+#EXTINF:-1 group-title="广东电信",CCTV-2高清测试(CCTV -2财经高清)
+http://xxika.synology.me:8188/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="广东电信",CCTV-3高清
+http://xxika.synology.me:8188/rtp/239.77.0.169:5146
+#EXTINF:-1 group-title="广东电信",CCTV-3超清 
+http://xxika.synology.me:8188/rtp/239.77.0.175:5146
+#EXTINF:-1 group-title="广东电信",CCTV-4高清
+http://xxika.synology.me:8188/rtp/239.77.1.163:5146
+#EXTINF:-1 group-title="广东电信",CCTV-4高清
+http://xxika.synology.me:8188/rtp/239.77.1.166:5146
+#EXTINF:-1 group-title="广东电信",CCTV-4高清
+http://xxika.synology.me:8188/rtp/239.77.0.78:5146
+#EXTINF:-1 group-title="广东电信",CCTV-4美洲高清
+http://xxika.synology.me:8188/rtp/239.253.43.121:5146
+#EXTINF:-1 group-title="广东电信",CCTV-4欧洲高清
+http://xxika.synology.me:8188/rtp/239.253.43.120:5146
+#EXTINF:-1 group-title="广东电信",CCTV-5高清
+http://xxika.synology.me:8188/rtp/239.77.0.170:5146
+#EXTINF:-1 group-title="广东电信",CCTV-5超清 
+http://xxika.synology.me:8188/rtp/239.77.0.177:5146
+#EXTINF:-1 group-title="广东电信",CCTV-5+高清
+http://xxika.synology.me:8188/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="广东电信",CCTV-5+高清
+http://xxika.synology.me:8188/rtp/239.77.1.31:5146
+#EXTINF:-1 group-title="广东电信",CCTV-6高清
+http://xxika.synology.me:8188/rtp/239.77.0.171:5146
+#EXTINF:-1 group-title="广东电信",CCTV-6超清 
+http://xxika.synology.me:8188/rtp/239.77.0.178:5146
+#EXTINF:-1 group-title="广东电信",CCTV-7高清
+http://xxika.synology.me:8188/rtp/239.77.1.159:5146
+#EXTINF:-1 group-title="广东电信",CCTV-7高清 
+http://xxika.synology.me:8188/rtp/239.77.1.167:5146
+#EXTINF:-1 group-title="广东电信",CCTV-7高清测试(CCTV -7军事农业高清)
+http://xxika.synology.me:8188/rtp/239.77.0.138:5146
+#EXTINF:-1 group-title="广东电信",CCTV-8高清
+http://xxika.synology.me:8188/rtp/239.77.0.172:5146
+#EXTINF:-1 group-title="广东电信",CCTV-8超清 
+http://xxika.synology.me:8188/rtp/239.77.0.181:5146
+#EXTINF:-1 group-title="广东电信",CCTV-9高清
+http://xxika.synology.me:8188/rtp/239.77.1.160:5146
+#EXTINF:-1 group-title="广东电信",CCTV-9高清 
+http://xxika.synology.me:8188/rtp/239.77.1.168:5146
+#EXTINF:-1 group-title="广东电信",CCTV-9高清测试
+http://xxika.synology.me:8188/rtp/239.77.0.135:5146
+#EXTINF:-1 group-title="广东电信",CCTV-10高清
+http://xxika.synology.me:8188/rtp/239.77.1.113:5146
+#EXTINF:-1 group-title="广东电信",CCTV-10高清 
+http://xxika.synology.me:8188/rtp/239.77.1.169:5146
+#EXTINF:-1 group-title="广东电信",CCTV-10高清测试(CCTV-10科教高清)
+http://xxika.synology.me:8188/rtp/239.77.0.134:5146
+#EXTINF:-1 group-title="广东电信",CCTV-11高清
+http://xxika.synology.me:8188/rtp/239.77.1.238:5146
+#EXTINF:-1 group-title="广东电信",CCTV-12高清
+http://xxika.synology.me:8188/rtp/239.77.1.109:5146
+#EXTINF:-1 group-title="广东电信",CCTV-12高清 
+http://xxika.synology.me:8188/rtp/239.77.1.170:5146
+#EXTINF:-1 group-title="广东电信",CCTV-12高清测试
+http://xxika.synology.me:8188/rtp/239.77.0.136:5146
+#EXTINF:-1 group-title="广东电信",CCTV-13高清
+http://xxika.synology.me:8188/rtp/239.77.0.188:5146
+#EXTINF:-1 group-title="广东电信",CCTV-13高清
+http://xxika.synology.me:8188/rtp/239.253.43.196:5146
+#EXTINF:-1 group-title="广东电信",CCTV-14高清
+http://xxika.synology.me:8188/rtp/239.77.1.161:5146
+#EXTINF:-1 group-title="广东电信",CCTV-14高清 
+http://xxika.synology.me:8188/rtp/239.77.1.171:5146
+#EXTINF:-1 group-title="广东电信",CCTV-14高清测试
+http://xxika.synology.me:8188/rtp/239.77.0.133:5146
+#EXTINF:-1 group-title="广东电信",CCTV-15高清
+http://xxika.synology.me:8188/rtp/239.77.1.239:5146
+#EXTINF:-1 group-title="广东电信",CCTV-16高清
+http://xxika.synology.me:8188/rtp/239.77.0.165:5146
+#EXTINF:-1 group-title="广东电信",CCTV-16高清
+http://xxika.synology.me:8188/rtp/239.77.1.76:5146
+#EXTINF:-1 group-title="广东电信",CCTV-17高清
+http://xxika.synology.me:8188/rtp/239.77.1.121:5146
+#EXTINF:-1 group-title="广东电信",CCTV-17农业高清
+http://xxika.synology.me:8188/rtp/239.77.0.198:5146
+#EXTINF:-1 group-title="广东电信",湖南卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.88:5146
+#EXTINF:-1 group-title="广东电信",湖南卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="广东电信",浙江卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.33:5146
+#EXTINF:-1 group-title="广东电信",浙江卫视高清 
+http://xxika.synology.me:8188/rtp/239.77.1.150:5146
+#EXTINF:-1 group-title="广东电信",浙江卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="广东电信",浙江卫视超清 
+http://xxika.synology.me:8188/rtp/239.77.0.125:5146
+#EXTINF:-1 group-title="广东电信",江苏卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.18:5146
+#EXTINF:-1 group-title="广东电信",江苏卫视高清 
+http://xxika.synology.me:8188/rtp/239.77.1.149:5146
+#EXTINF:-1 group-title="广东电信",江苏卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.90:5146
+#EXTINF:-1 group-title="广东电信",江苏卫视超清 
+http://xxika.synology.me:8188/rtp/239.77.0.126:5146
+#EXTINF:-1 group-title="广东电信",东方卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.218:5146
+#EXTINF:-1 group-title="广东电信",东方卫视高清 
+http://xxika.synology.me:8188/rtp/239.77.1.156:5146
+#EXTINF:-1 group-title="广东电信",东方卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.98:5146
+#EXTINF:-1 group-title="广东电信",安徽卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.92:5146
+#EXTINF:-1 group-title="广东电信",安徽卫视高清 
+http://xxika.synology.me:8188/rtp/239.77.1.157:5146
+#EXTINF:-1 group-title="广东电信",安徽卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.183:5146
+#EXTINF:-1 group-title="广东电信",北京卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.4:5146
+#EXTINF:-1 group-title="广东电信",北京卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.151:5146
+#EXTINF:-1 group-title="广东电信",北京卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.91:5146
+#EXTINF:-1 group-title="广东电信",天津卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.141:5146
+#EXTINF:-1 group-title="广东电信",天津卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.182:5146
+#EXTINF:-1 group-title="广东电信",天津卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.97:5146
+#EXTINF:-1 group-title="广东电信",天津卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.131:5146
+#EXTINF:-1 group-title="广东电信",山东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.142:5146
+#EXTINF:-1 group-title="广东电信",山东卫视高清 
+http://xxika.synology.me:8188/rtp/239.77.1.153:5146
+#EXTINF:-1 group-title="广东电信",山东卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.94:5146
+#EXTINF:-1 group-title="广东电信",山东卫视超清 
+http://xxika.synology.me:8188/rtp/239.77.0.132:5146
+#EXTINF:-1 group-title="广东电信",江西卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.219:5146
+#EXTINF:-1 group-title="广东电信",江西卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.149:5146
+#EXTINF:-1 group-title="广东电信",湖北卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.93:5146
+#EXTINF:-1 group-title="广东电信",湖北卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.174:5146
+#EXTINF:-1 group-title="广东电信",湖北卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="广东电信",湖北卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.128:5146
+#EXTINF:-1 group-title="广东电信",辽宁卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.103:5146
+#EXTINF:-1 group-title="广东电信",辽宁卫视 高清
+http://xxika.synology.me:8188/rtp/239.77.0.123:5146
+#EXTINF:-1 group-title="广东电信",辽宁卫视超清 
+http://xxika.synology.me:8188/rtp/239.77.0.161:5146
+#EXTINF:-1 group-title="广东电信",黑龙江卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.6:5146
+#EXTINF:-1 group-title="广东电信",黑龙江卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.179:5146
+#EXTINF:-1 group-title="广东电信",黑龙江卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.93:5146
+#EXTINF:-1 group-title="广东电信",黑龙江卫视超清
+http://xxika.synology.me:8188/rtp/239.77.0.124:5146
+#EXTINF:-1 group-title="广东电信",贵州卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.221:5146
+#EXTINF:-1 group-title="广东电信",贵州卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.230:5146
+#EXTINF:-1 group-title="广东电信",四川卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.215:5146
+#EXTINF:-1 group-title="广东电信",四川卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.159:5146
+#EXTINF:-1 group-title="广东电信",四川卫视超清 
+http://xxika.synology.me:8188/rtp/239.77.0.163:5146
+#EXTINF:-1 group-title="广东电信",河南卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="广东电信",河南卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.17:5146
+#EXTINF:-1 group-title="广东电信",云南卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.37:5146
+#EXTINF:-1 group-title="广东电信",云南卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.100:5146
+#EXTINF:-1 group-title="广东电信",重庆卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.162:5146
+#EXTINF:-1 group-title="广东电信",重庆卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.182:5146
+#EXTINF:-1 group-title="广东电信",河北卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.214:5146
+#EXTINF:-1 group-title="广东电信",河北卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="广东电信",东南卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.104:5146
+#EXTINF:-1 group-title="广东电信",福建东南卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.146:5146
+#EXTINF:-1 group-title="广东电信",广西卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.36:5146
+#EXTINF:-1 group-title="广东电信",广西卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.139:5146
+#EXTINF:-1 group-title="广东电信",吉林卫视高清
+http://xxika.synology.me:8188/rtp/239.77.1.111:5146
+#EXTINF:-1 group-title="广东电信",吉林卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.150:5146
+#EXTINF:-1 group-title="广东电信",青海卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.125:5146
+#EXTINF:-1 group-title="广东电信",海南卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.35:5146
+#EXTINF:-1 group-title="广东电信",海南卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.101:5146
+#EXTINF:-1 group-title="广东电信",甘肃卫视高清
+http://xxika.synology.me:8188/rtp/239.77.0.189:5146
+#EXTINF:-1 group-title="广东电信",三沙卫视高清
+http://xxika.synology.me:8188/rtp/239.253.43.113:5146
+#EXTINF:-1 group-title="广东电信",兵器科技高清
+http://xxika.synology.me:8188/rtp/239.253.43.18:5146
+#EXTINF:-1 group-title="广东电信",兵器科技高清
+http://xxika.synology.me:8188/rtp/239.253.43.9:5146
+#EXTINF:-1 group-title="广东电信",电视指南高清
+http://xxika.synology.me:8188/rtp/239.253.43.19:5146
+#EXTINF:-1 group-title="广东电信",电视指南高清
+http://xxika.synology.me:8188/rtp/239.253.43.10:5146
+#EXTINF:-1 group-title="广东电信",风云足球高清
+http://xxika.synology.me:8188/rtp/239.253.43.20:5146
+#EXTINF:-1 group-title="广东电信",风云足球高清
+http://xxika.synology.me:8188/rtp/239.253.43.14:5146
+#EXTINF:-1 group-title="广东电信",央视台球高清
+http://xxika.synology.me:8188/rtp/239.253.43.21:5146
+#EXTINF:-1 group-title="广东电信",央视台球高清
+http://xxika.synology.me:8188/rtp/239.253.43.11:5146
+#EXTINF:-1 group-title="广东电信",高尔夫网球高清
+http://xxika.synology.me:8188/rtp/239.253.43.22:5146
+#EXTINF:-1 group-title="广东电信",高尔夫网球高清
+http://xxika.synology.me:8188/rtp/239.253.43.12:5146
+#EXTINF:-1 group-title="广东电信",女性时尚高清
+http://xxika.synology.me:8188/rtp/239.253.43.23:5146
+#EXTINF:-1 group-title="广东电信",女性时尚高清
+http://xxika.synology.me:8188/rtp/239.253.43.8:5146
+#EXTINF:-1 group-title="广东电信",世界地理高清
+http://xxika.synology.me:8188/rtp/239.253.43.24:5146
+#EXTINF:-1 group-title="广东电信",世界地理高清
+http://xxika.synology.me:8188/rtp/239.253.43.7:5146
+#EXTINF:-1 group-title="广东电信",怀旧剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.25:5146
+#EXTINF:-1 group-title="广东电信",怀旧剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.5:5146
+#EXTINF:-1 group-title="广东电信",风云剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.26:5146
+#EXTINF:-1 group-title="广东电信",风云剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.16:5146
+#EXTINF:-1 group-title="广东电信",央视文化精品高清
+http://xxika.synology.me:8188/rtp/239.253.43.27:5146
+#EXTINF:-1 group-title="广东电信",央视文化精品高清
+http://xxika.synology.me:8188/rtp/239.253.43.13:5146
+#EXTINF:-1 group-title="广东电信",第一剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.28:5146
+#EXTINF:-1 group-title="广东电信",第一剧场高清
+http://xxika.synology.me:8188/rtp/239.253.43.15:5146
+#EXTINF:-1 group-title="广东电信",风云音乐高清
+http://xxika.synology.me:8188/rtp/239.253.43.29:5146
+#EXTINF:-1 group-title="广东电信",风云音乐高清
+http://xxika.synology.me:8188/rtp/239.253.43.6:5146
+#EXTINF:-1 group-title="广东电信",CHC高清电影
+http://xxika.synology.me:8188/rtp/239.77.0.27:5146
+#EXTINF:-1 group-title="广东电信",金鹰卡通高清
+http://xxika.synology.me:8188/rtp/239.77.0.164:5146
+#EXTINF:-1 group-title="广东电信",CETV-1高清
+http://xxika.synology.me:8188/rtp/239.77.1.222:5146
+#EXTINF:-1 group-title="广东电信",中国教育-1高清
+http://xxika.synology.me:8188/rtp/239.77.0.200:5146
+#EXTINF:-1 group-title="广东电信",CETV-4高清
+http://xxika.synology.me:8188/rtp/239.77.1.200:5146
+#EXTINF:-1 group-title="广东电信",CETV-4高清
+http://xxika.synology.me:8188/rtp/239.253.43.40:5146
+#EXTINF:-1 group-title="广东电信",CETV-4高清
+http://xxika.synology.me:8188/rtp/239.253.43.114:5146
+#EXTINF:-1 group-title="广东电信",早期教育高清
+http://xxika.synology.me:8188/rtp/239.77.0.180:5146
+#EXTINF:-1 group-title="广东电信",中国交通
+http://xxika.synology.me:8188/rtp/239.77.1.249:5146
+#EXTINF:-1 group-title="广东电信",金鹰纪实高清
+http://xxika.synology.me:8188/rtp/239.77.1.217:5146
+#EXTINF:-1 group-title="广东电信",金鹰纪实高清测试
+http://xxika.synology.me:8188/rtp/239.77.0.160:5146
+#EXTINF:-1 group-title="广东电信",金鹰纪实超清测试 
+http://xxika.synology.me:8188/rtp/239.77.0.162:5146
+#EXTINF:-1 group-title="广东电信",上海纪实高清
+http://xxika.synology.me:8188/rtp/239.77.1.216:5146
+#EXTINF:-1 group-title="广东电信",上海纪实高清
+http://xxika.synology.me:8188/rtp/239.77.0.147:5146
+#EXTINF:-1 group-title="广东电信",求索纪录高清
+http://xxika.synology.me:8188/rtp/239.77.0.21:5146
+#EXTINF:-1 group-title="广东电信",求索生活高清
+http://xxika.synology.me:8188/rtp/239.77.0.153:5146
+#EXTINF:-1 group-title="广东电信",武术世界高清
+http://xxika.synology.me:8188/rtp/239.77.1.108:5146
+#EXTINF:-1 group-title="广东电信",文物宝库高清
+http://xxika.synology.me:8188/rtp/239.77.1.120:5146
+#EXTINF:-1 group-title="广东电信",爱体育高清
+http://xxika.synology.me:8188/rtp/239.77.0.176:5146
+#EXTINF:-1 group-title="广东电信",爱体育高清
+http://xxika.synology.me:8188/rtp/239.77.1.116:5146
+#EXTINF:-1 group-title="广东电信",广东卫视高清
 http://iptv.xxika.net:8188/rtp/239.77.1.19:5146
 #EXTINF:-1 group-title="广东电信",翡翠台
 http://iptv.xxika.net:8188/rtp/239.77.1.107:5146
@@ -10768,24 +11278,6 @@ http://www.jtmi.vip:10001/rtp/239.81.0.239:4056
 #EXTINF:-1 group-title="广西电信",CHC高清电影 HD
 http://www.jtmi.vip:10001/rtp/239.81.0.240:4056
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
-http://kouki.pro:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏电信",江苏综艺HD
-http://kouki.pro:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
-http://kouki.pro:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏电信",江苏影视HD
-http://kouki.pro:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
-http://kouki.pro:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏电信",江苏教育HD
-http://kouki.pro:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏电信",江苏新闻HD
-http://kouki.pro:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏电信",江苏卫视HD
-http://kouki.pro:8888/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="江苏电信",广西卫视HD
-http://kouki.pro:8888/rtp/239.49.8.10:8000
-#EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://home.amucn.net:8800/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
 http://home.amucn.net:8800/rtp/239.49.8.108:8000
@@ -10912,24 +11404,6 @@ http://980413.xyz:6000/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="江苏电信",广西卫视HD
 http://980413.xyz:6000/rtp/239.49.8.10:8000
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
-http://h.vanshun.com:8802/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏电信",江苏综艺HD
-http://h.vanshun.com:8802/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
-http://h.vanshun.com:8802/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏电信",江苏影视HD
-http://h.vanshun.com:8802/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
-http://h.vanshun.com:8802/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏电信",江苏教育HD
-http://h.vanshun.com:8802/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏电信",江苏新闻HD
-http://h.vanshun.com:8802/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏电信",江苏卫视HD
-http://h.vanshun.com:8802/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="江苏电信",广西卫视HD
-http://h.vanshun.com:8802/rtp/239.49.8.10:8000
-#EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://jstxsheng.com:28088/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
 http://jstxsheng.com:28088/rtp/239.49.8.108:8000
@@ -11037,6 +11511,24 @@ http://www.duanht.top:4000/rtp/239.49.8.120:8000
 http://www.duanht.top:4000/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="江苏电信",广西卫视HD
 http://www.duanht.top:4000/rtp/239.49.8.10:8000
+#EXTINF:-1 group-title="江苏电信",江苏城市HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏电信",江苏综艺HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏电信",江苏影视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏电信",江苏教育HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏电信",江苏新闻HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏电信",江苏卫视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="江苏电信",广西卫视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.10:8000
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://fb.linc.vip:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
@@ -11181,6 +11673,42 @@ http://st.dhdasheng.cn:8188/rtp/239.49.8.120:8000
 http://st.dhdasheng.cn:8188/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="江苏电信",广西卫视HD
 http://st.dhdasheng.cn:8188/rtp/239.49.8.10:8000
+#EXTINF:-1 group-title="江苏电信",江苏城市HD
+http://gcc125.myds.me:5888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏电信",江苏综艺HD
+http://gcc125.myds.me:5888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
+http://gcc125.myds.me:5888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏电信",江苏影视HD
+http://gcc125.myds.me:5888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
+http://gcc125.myds.me:5888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏电信",江苏教育HD
+http://gcc125.myds.me:5888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏电信",江苏新闻HD
+http://gcc125.myds.me:5888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏电信",江苏卫视HD
+http://gcc125.myds.me:5888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="江苏电信",广西卫视HD
+http://gcc125.myds.me:5888/rtp/239.49.8.10:8000
+#EXTINF:-1 group-title="江苏电信",江苏城市HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏电信",江苏综艺HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏电信",江苏体育休闲HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏电信",江苏影视HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏电信",江苏优漫卡通HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏电信",江苏教育HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏电信",江苏新闻HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏电信",江苏卫视HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="江苏电信",广西卫视HD
+http://kd2.gcc125.top:5888/rtp/239.49.8.10:8000
 #EXTINF:-1 group-title="江苏电信",江苏城市HD
 http://202.8090pc.cn:58888/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="江苏电信",江苏综艺HD
