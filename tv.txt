@@ -1,4 +1,4 @@
-更新时间,2026-09-15 03:04:05,#genre#
+更新时间,2026-09-16 03:04:04,#genre#
 
 上海电信,#genre#
 快乐垂钓,http://www.rogerxlj.top:9998/rtp/233.18.204.42:5140
@@ -275,20 +275,34 @@ CETV4,http://cloud.sunrisecom.cn:18888/rtp/233.18.204.111:5140
 CCTV1,http://cloud.sunrisecom.cn:18888/rtp/233.18.204.168:5140
 
 北京联通,#genre#
-BRTV科教,http://hcie360.cn:10017/rtp/239.3.1.115:8000
-CCTV16 4K,http://hcie360.cn:10017/rtp/239.3.1.183:8001
-少儿,http://hcie360.cn:10017/rtp/239.3.1.238:8001
-淘电影,http://hcie360.cn:10017/rtp/239.3.1.250:8001
-北京4K,http://hcie360.cn:10017/rtp/239.3.1.249:8001
-房山电视台,http://hcie360.cn:10017/rtp/239.3.1.96:8001
-密云电视台,http://hcie360.cn:10017/rtp/239.3.1.154:8001
-爱上4K[超清],http://hcie360.cn:10017/rtp/239.3.1.236:2000
-BRTV新闻,http://hcie360.cn:10017/rtp/239.3.1.159:8000
-BRTV影视,http://hcie360.cn:10017/rtp/239.3.1.158:8000
-BRTV文艺,http://hcie360.cn:10017/rtp/239.3.1.242:8000
-BRTV财经,http://hcie360.cn:10017/rtp/239.3.1.116:8000
-BRTV生活,http://hcie360.cn:10017/rtp/239.3.1.117:8000
-BRTV青年,http://hcie360.cn:10017/rtp/239.3.1.118:8000
+BRTV科教,http://www.hcie360.cn:10017/rtp/239.3.1.115:8000
+CCTV16 4K,http://www.hcie360.cn:10017/rtp/239.3.1.183:8001
+少儿,http://www.hcie360.cn:10017/rtp/239.3.1.238:8001
+淘电影,http://www.hcie360.cn:10017/rtp/239.3.1.250:8001
+北京4K,http://www.hcie360.cn:10017/rtp/239.3.1.249:8001
+房山电视台,http://www.hcie360.cn:10017/rtp/239.3.1.96:8001
+密云电视台,http://www.hcie360.cn:10017/rtp/239.3.1.154:8001
+爱上4K[超清],http://www.hcie360.cn:10017/rtp/239.3.1.236:2000
+BRTV新闻,http://www.hcie360.cn:10017/rtp/239.3.1.159:8000
+BRTV影视,http://www.hcie360.cn:10017/rtp/239.3.1.158:8000
+BRTV文艺,http://www.hcie360.cn:10017/rtp/239.3.1.242:8000
+BRTV财经,http://www.hcie360.cn:10017/rtp/239.3.1.116:8000
+BRTV生活,http://www.hcie360.cn:10017/rtp/239.3.1.117:8000
+BRTV青年,http://www.hcie360.cn:10017/rtp/239.3.1.118:8000
+BRTV科教,http://www.irisxxd.cn:8000/rtp/239.3.1.115:8000
+CCTV16 4K,http://www.irisxxd.cn:8000/rtp/239.3.1.183:8001
+少儿,http://www.irisxxd.cn:8000/rtp/239.3.1.238:8001
+淘电影,http://www.irisxxd.cn:8000/rtp/239.3.1.250:8001
+北京4K,http://www.irisxxd.cn:8000/rtp/239.3.1.249:8001
+房山电视台,http://www.irisxxd.cn:8000/rtp/239.3.1.96:8001
+密云电视台,http://www.irisxxd.cn:8000/rtp/239.3.1.154:8001
+爱上4K[超清],http://www.irisxxd.cn:8000/rtp/239.3.1.236:2000
+BRTV新闻,http://www.irisxxd.cn:8000/rtp/239.3.1.159:8000
+BRTV影视,http://www.irisxxd.cn:8000/rtp/239.3.1.158:8000
+BRTV文艺,http://www.irisxxd.cn:8000/rtp/239.3.1.242:8000
+BRTV财经,http://www.irisxxd.cn:8000/rtp/239.3.1.116:8000
+BRTV生活,http://www.irisxxd.cn:8000/rtp/239.3.1.117:8000
+BRTV青年,http://www.irisxxd.cn:8000/rtp/239.3.1.118:8000
 BRTV科教,http://sk7628.top:8012/rtp/239.3.1.115:8000
 CCTV16 4K,http://sk7628.top:8012/rtp/239.3.1.183:8001
 少儿,http://sk7628.top:8012/rtp/239.3.1.238:8001
@@ -513,34 +527,6 @@ BRTV文艺,http://chinyu.xicp.net:4044/rtp/239.3.1.242:8000
 BRTV财经,http://chinyu.xicp.net:4044/rtp/239.3.1.116:8000
 BRTV生活,http://chinyu.xicp.net:4044/rtp/239.3.1.117:8000
 BRTV青年,http://chinyu.xicp.net:4044/rtp/239.3.1.118:8000
-BRTV科教,http://chinyu.synology.me:4044/rtp/239.3.1.115:8000
-CCTV16 4K,http://chinyu.synology.me:4044/rtp/239.3.1.183:8001
-少儿,http://chinyu.synology.me:4044/rtp/239.3.1.238:8001
-淘电影,http://chinyu.synology.me:4044/rtp/239.3.1.250:8001
-北京4K,http://chinyu.synology.me:4044/rtp/239.3.1.249:8001
-房山电视台,http://chinyu.synology.me:4044/rtp/239.3.1.96:8001
-密云电视台,http://chinyu.synology.me:4044/rtp/239.3.1.154:8001
-爱上4K[超清],http://chinyu.synology.me:4044/rtp/239.3.1.236:2000
-BRTV新闻,http://chinyu.synology.me:4044/rtp/239.3.1.159:8000
-BRTV影视,http://chinyu.synology.me:4044/rtp/239.3.1.158:8000
-BRTV文艺,http://chinyu.synology.me:4044/rtp/239.3.1.242:8000
-BRTV财经,http://chinyu.synology.me:4044/rtp/239.3.1.116:8000
-BRTV生活,http://chinyu.synology.me:4044/rtp/239.3.1.117:8000
-BRTV青年,http://chinyu.synology.me:4044/rtp/239.3.1.118:8000
-BRTV科教,http://unicom3.swjms.com:4022/rtp/239.3.1.115:8000
-CCTV16 4K,http://unicom3.swjms.com:4022/rtp/239.3.1.183:8001
-少儿,http://unicom3.swjms.com:4022/rtp/239.3.1.238:8001
-淘电影,http://unicom3.swjms.com:4022/rtp/239.3.1.250:8001
-北京4K,http://unicom3.swjms.com:4022/rtp/239.3.1.249:8001
-房山电视台,http://unicom3.swjms.com:4022/rtp/239.3.1.96:8001
-密云电视台,http://unicom3.swjms.com:4022/rtp/239.3.1.154:8001
-爱上4K[超清],http://unicom3.swjms.com:4022/rtp/239.3.1.236:2000
-BRTV新闻,http://unicom3.swjms.com:4022/rtp/239.3.1.159:8000
-BRTV影视,http://unicom3.swjms.com:4022/rtp/239.3.1.158:8000
-BRTV文艺,http://unicom3.swjms.com:4022/rtp/239.3.1.242:8000
-BRTV财经,http://unicom3.swjms.com:4022/rtp/239.3.1.116:8000
-BRTV生活,http://unicom3.swjms.com:4022/rtp/239.3.1.117:8000
-BRTV青年,http://unicom3.swjms.com:4022/rtp/239.3.1.118:8000
 BRTV科教,http://file.rbscraft.com:4022/rtp/239.3.1.115:8000
 CCTV16 4K,http://file.rbscraft.com:4022/rtp/239.3.1.183:8001
 少儿,http://file.rbscraft.com:4022/rtp/239.3.1.238:8001
@@ -1453,6 +1439,15 @@ CDTVE,http://893224162.synology.me:8188/rtp/239.94.0.160:5140
 ﻿宁夏卫视,http://520yy.icu:9999/rtp/239.121.4.94:8538
 
 山东电信,#genre#
+山东齐鲁,http://www.1568981.xyz:6777/rtp/239.21.1.134:5002
+山东新闻,http://www.1568981.xyz:6777/rtp/239.21.1.140:5002
+山东综艺,http://www.1568981.xyz:6777/rtp/239.21.1.177:5002
+山东生活,http://www.1568981.xyz:6777/rtp/239.21.1.175:5002
+山东文旅,http://www.1568981.xyz:6777/rtp/239.21.1.176:5002
+山东体育,http://www.1568981.xyz:6777/rtp/239.21.1.141:5002
+山东农科,http://www.1568981.xyz:6777/rtp/239.21.1.183:5002
+山东少儿,http://www.1568981.xyz:6777/rtp/239.21.1.208:5002
+青岛综合,http://www.1568981.xyz:6777/rtp/239.21.2.57:5002
 山东齐鲁,http://yc4.689989.xyz:8288/rtp/239.21.1.134:5002
 山东新闻,http://yc4.689989.xyz:8288/rtp/239.21.1.140:5002
 山东综艺,http://yc4.689989.xyz:8288/rtp/239.21.1.177:5002
@@ -4255,15 +4250,24 @@ CHC动作电影 HD,http://www.jtmi.vip:10001/rtp/239.81.0.239:4056
 CHC高清电影 HD,http://www.jtmi.vip:10001/rtp/239.81.0.240:4056
 
 江苏电信,#genre#
-江苏城市HD,http://jstxsheng.com:28088/rtp/239.49.8.107:8000
-江苏综艺HD,http://jstxsheng.com:28088/rtp/239.49.8.108:8000
-江苏体育休闲HD,http://jstxsheng.com:28088/rtp/239.49.8.117:8000
-江苏影视HD,http://jstxsheng.com:28088/rtp/239.49.8.118:8000
-江苏优漫卡通HD,http://jstxsheng.com:28088/rtp/239.49.8.119:8000
-江苏教育HD,http://jstxsheng.com:28088/rtp/239.49.8.122:8000
-江苏新闻HD,http://jstxsheng.com:28088/rtp/239.49.8.120:8000
-江苏卫视HD,http://jstxsheng.com:28088/rtp/239.49.8.16:9602
-广西卫视HD,http://jstxsheng.com:28088/rtp/239.49.8.10:8000
+江苏城市HD,http://www.jstxsheng.com:28088/rtp/239.49.8.107:8000
+江苏综艺HD,http://www.jstxsheng.com:28088/rtp/239.49.8.108:8000
+江苏体育休闲HD,http://www.jstxsheng.com:28088/rtp/239.49.8.117:8000
+江苏影视HD,http://www.jstxsheng.com:28088/rtp/239.49.8.118:8000
+江苏优漫卡通HD,http://www.jstxsheng.com:28088/rtp/239.49.8.119:8000
+江苏教育HD,http://www.jstxsheng.com:28088/rtp/239.49.8.122:8000
+江苏新闻HD,http://www.jstxsheng.com:28088/rtp/239.49.8.120:8000
+江苏卫视HD,http://www.jstxsheng.com:28088/rtp/239.49.8.16:9602
+广西卫视HD,http://www.jstxsheng.com:28088/rtp/239.49.8.10:8000
+江苏城市HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.107:8000
+江苏综艺HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.108:8000
+江苏体育休闲HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.117:8000
+江苏影视HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.118:8000
+江苏优漫卡通HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.119:8000
+江苏教育HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.122:8000
+江苏新闻HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.120:8000
+江苏卫视HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.16:9602
+广西卫视HD,http://ikuai-v4.17271201.xyz:4000/rtp/239.49.8.10:8000
 江苏城市HD,http://njbobo.com:4022/rtp/239.49.8.107:8000
 江苏综艺HD,http://njbobo.com:4022/rtp/239.49.8.108:8000
 江苏体育休闲HD,http://njbobo.com:4022/rtp/239.49.8.117:8000
@@ -4282,15 +4286,6 @@ CHC高清电影 HD,http://www.jtmi.vip:10001/rtp/239.81.0.240:4056
 江苏新闻HD,http://980413.xyz:6000/rtp/239.49.8.120:8000
 江苏卫视HD,http://980413.xyz:6000/rtp/239.49.8.16:9602
 广西卫视HD,http://980413.xyz:6000/rtp/239.49.8.10:8000
-江苏城市HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.107:8000
-江苏综艺HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.108:8000
-江苏体育休闲HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.117:8000
-江苏影视HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.118:8000
-江苏优漫卡通HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.119:8000
-江苏教育HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.122:8000
-江苏新闻HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.120:8000
-江苏卫视HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.16:9602
-广西卫视HD,http://iptv.feng.js.cn:58099/rtp/239.49.8.10:8000
 江苏城市HD,http://vpn.a5521.top:9889/rtp/239.49.8.107:8000
 江苏综艺HD,http://vpn.a5521.top:9889/rtp/239.49.8.108:8000
 江苏体育休闲HD,http://vpn.a5521.top:9889/rtp/239.49.8.117:8000
@@ -4489,6 +4484,15 @@ CHC高清电影 HD,http://www.jtmi.vip:10001/rtp/239.81.0.240:4056
 江苏新闻HD,http://202.8090pc.cn:58888/rtp/239.49.8.120:8000
 江苏卫视HD,http://202.8090pc.cn:58888/rtp/239.49.8.16:9602
 广西卫视HD,http://202.8090pc.cn:58888/rtp/239.49.8.10:8000
+江苏城市HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.107:8000
+江苏综艺HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.108:8000
+江苏体育休闲HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.117:8000
+江苏影视HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.118:8000
+江苏优漫卡通HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.119:8000
+江苏教育HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.122:8000
+江苏新闻HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.120:8000
+江苏卫视HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.16:9602
+广西卫视HD,http://acp-cloud.asuscomm.com:4000/rtp/239.49.8.10:8000
 江苏城市HD,http://www.angel147.cf:9570/rtp/239.49.8.107:8000
 江苏综艺HD,http://www.angel147.cf:9570/rtp/239.49.8.108:8000
 江苏体育休闲HD,http://www.angel147.cf:9570/rtp/239.49.8.117:8000
@@ -4500,6 +4504,60 @@ CHC高清电影 HD,http://www.jtmi.vip:10001/rtp/239.81.0.240:4056
 广西卫视HD,http://www.angel147.cf:9570/rtp/239.49.8.10:8000
 
 浙江电信,#genre#
+都市剧场,http://www.tangtuanpp.fun:4000/rtp/233.50.200.11:5140
+动漫场,http://www.tangtuanpp.fun:4000/rtp/233.50.200.12:5140
+游戏风云,http://www.tangtuanpp.fun:4000/rtp/233.50.200.14:5140
+生活时尚,http://www.tangtuanpp.fun:4000/rtp/233.50.200.15:5140
+CCTV14,http://www.tangtuanpp.fun:4000/rtp/233.50.200.20:5140
+CCTV12,http://www.tangtuanpp.fun:4000/rtp/233.50.200.21:5140
+CCTV10,http://www.tangtuanpp.fun:4000/rtp/233.50.200.22:5140
+CCTTV9,http://www.tangtuanpp.fun:4000/rtp/233.50.200.23:5140
+CCTV7,http://www.tangtuanpp.fun:4000/rtp/233.50.200.24:5140
+CCTTV2,http://www.tangtuanpp.fun:4000/rtp/233.50.200.25:5140
+钱江卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.201.132:5140
+经济生活,http://www.tangtuanpp.fun:4000/rtp/233.50.201.133:5140
+NBTV4,http://www.tangtuanpp.fun:4000/rtp/233.50.201.154:5140
+新闻综合,http://www.tangtuanpp.fun:4000/rtp/233.50.201.156:5140
+NBTV1,http://www.tangtuanpp.fun:4000/rtp/233.50.201.168:5140
+杭州综合,http://www.tangtuanpp.fun:4000/rtp/233.50.201.173:5140
+明珠,http://www.tangtuanpp.fun:4000/rtp/233.50.201.174:5140
+生活,http://www.tangtuanpp.fun:4000/rtp/233.50.201.175:5140
+影视,http://www.tangtuanpp.fun:4000/rtp/233.50.201.176:5140
+青少体育,http://www.tangtuanpp.fun:4000/rtp/233.50.201.177:5140
+NBTV2,http://www.tangtuanpp.fun:4000/rtp/233.50.201.178:5140
+NBTV3,http://www.tangtuanpp.fun:4000/rtp/233.50.201.179:5140
+NBTV4,http://www.tangtuanpp.fun:4000/rtp/233.50.201.180:5140
+QHTV导视,http://www.tangtuanpp.fun:4000/rtp/233.50.201.182:5140
+440,http://www.tangtuanpp.fun:4000/rtp/233.50.201.183:5140
+动漫场,http://www.tangtuanpp.fun:4000/rtp/233.50.201.184:5140
+金色学堂,http://www.tangtuanpp.fun:4000/rtp/233.50.201.186:5140
+生活时尚,http://www.tangtuanpp.fun:4000/rtp/233.50.201.187:5140
+条频超道员日,http://www.tangtuanpp.fun:4000/rtp/233.50.201.188:5140
+欢笑剧场4,http://www.tangtuanpp.fun:4000/rtp/233.50.201.189:5140
+都市剧场,http://www.tangtuanpp.fun:4000/rtp/233.50.201.190:5140
+法治天地,http://www.tangtuanpp.fun:4000/rtp/233.50.201.191:5140
+CCTV16,http://www.tangtuanpp.fun:4000/rtp/233.50.201.192:5140
+CCTV5,http://www.tangtuanpp.fun:4000/rtp/233.50.201.193:5140
+滋鲜鲜足100天T,http://www.tangtuanpp.fun:4000/rtp/233.50.201.195:5140
+CCTV3,http://www.tangtuanpp.fun:4000/rtp/233.50.201.196:5140
+CCTV5,http://www.tangtuanpp.fun:4000/rtp/233.50.201.197:5140
+CCTV6,http://www.tangtuanpp.fun:4000/rtp/233.50.201.198:5140
+CCTV8,http://www.tangtuanpp.fun:4000/rtp/233.50.201.199:5140
+CCTV5+,http://www.tangtuanpp.fun:4000/rtp/233.50.201.220:5140
+CCTV5,http://www.tangtuanpp.fun:4000/rtp/233.50.201.227:5140
+CCV13,http://www.tangtuanpp.fun:4000/rtp/233.50.201.246:5140
+XZTV,http://www.tangtuanpp.fun:4000/rtp/233.50.202.43:5140
+兵团卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.44:5140
+宁夏,http://www.tangtuanpp.fun:4000/rtp/233.50.202.45:5140
+新疆卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.46:5140
+浙江之声 FM,rtp:///233.50.201.79:5140
+新闻广播 FM,rtp:///233.50.201.80:5140
+经济广播 FM,rtp:///233.50.201.81:5140
+音乐调频 FM,rtp:///233.50.201.82:5140
+交通之声 FM,rtp:///233.50.201.83:5140
+旅游之声 FM,rtp:///233.50.201.84:5140
+城市之声 FM,rtp:///233.50.201.85:5140
+民生广播 FM,rtp:///233.50.201.86:5140
 都市剧场,http://dknas.song.zj.cn:4043/rtp/233.50.200.11:5140
 动漫场,http://dknas.song.zj.cn:4043/rtp/233.50.200.12:5140
 游戏风云,http://dknas.song.zj.cn:4043/rtp/233.50.200.14:5140
@@ -5042,24 +5100,24 @@ NXTV高清,http://www.zlizi.cn:4023/rtp/239.76.255.57:9000
 新电视高清,http://www.zlizi.cn:4023/rtp/239.76.252.151:9000
 
 重庆联通,#genre#
-重庆卫视超高清,http://game.x3322.net:8899/rtp/225.0.4.187:7980
-重庆新闻超高清,http://game.x3322.net:8899/rtp/225.0.4.188:7980
-重庆影视超高清,http://game.x3322.net:8899/rtp/225.0.4.192:7980
-重庆社会与法超高清,http://game.x3322.net:8899/rtp/225.0.4.190:7980
-重庆时尚生活超高清,http://game.x3322.net:8899/rtp/225.0.4.196:7980
-重庆娱乐超高清,http://game.x3322.net:8899/rtp/225.0.4.194:7980
-重庆新农村超高清,http://game.x3322.net:8899/rtp/225.0.4.189:7980
-重庆少儿超高清,http://game.x3322.net:8899/rtp/225.0.4.191:7980
-重庆科教超高清,http://game.x3322.net:8899/rtp/225.0.4.193:7980
-动作影院,http://game.x3322.net:8899/rtp/225.0.4.170:7980
-家庭影院,http://game.x3322.net:8899/rtp/225.0.4.171:7980
-星影,http://game.x3322.net:8899/rtp/225.0.4.172:7980
-CHC家庭影院,http://game.x3322.net:8899/rtp/225.0.4.228:7980
-CHC动作电影,http://game.x3322.net:8899/rtp/225.0.4.229:7980
-CHC高清电影,http://game.x3322.net:8899/rtp/225.0.4.230:7980
-精彩影视,http://game.x3322.net:8899/rtp/225.0.4.231:7980
-求索纪录,http://game.x3322.net:8899/rtp/225.0.4.232:7980
-茶高清,http://game.x3322.net:8899/rtp/225.0.4.233:7980
+重庆卫视超高清,http://home.660888.xyz:4000/rtp/225.0.4.187:7980
+重庆新闻超高清,http://home.660888.xyz:4000/rtp/225.0.4.188:7980
+重庆影视超高清,http://home.660888.xyz:4000/rtp/225.0.4.192:7980
+重庆社会与法超高清,http://home.660888.xyz:4000/rtp/225.0.4.190:7980
+重庆时尚生活超高清,http://home.660888.xyz:4000/rtp/225.0.4.196:7980
+重庆娱乐超高清,http://home.660888.xyz:4000/rtp/225.0.4.194:7980
+重庆新农村超高清,http://home.660888.xyz:4000/rtp/225.0.4.189:7980
+重庆少儿超高清,http://home.660888.xyz:4000/rtp/225.0.4.191:7980
+重庆科教超高清,http://home.660888.xyz:4000/rtp/225.0.4.193:7980
+动作影院,http://home.660888.xyz:4000/rtp/225.0.4.170:7980
+家庭影院,http://home.660888.xyz:4000/rtp/225.0.4.171:7980
+星影,http://home.660888.xyz:4000/rtp/225.0.4.172:7980
+CHC家庭影院,http://home.660888.xyz:4000/rtp/225.0.4.228:7980
+CHC动作电影,http://home.660888.xyz:4000/rtp/225.0.4.229:7980
+CHC高清电影,http://home.660888.xyz:4000/rtp/225.0.4.230:7980
+精彩影视,http://home.660888.xyz:4000/rtp/225.0.4.231:7980
+求索纪录,http://home.660888.xyz:4000/rtp/225.0.4.232:7980
+茶高清,http://home.660888.xyz:4000/rtp/225.0.4.233:7980
 
 青海电信,#genre#
 ﻿青海卫视,http://klh950.3322.org:4000/rtp/239.120.1.249:9444
